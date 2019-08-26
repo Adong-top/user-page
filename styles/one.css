@@ -1,0 +1,127 @@
+body{
+	position: relative;
+	margin:0;
+	height: 100%;
+}
+.tops-box{
+	float: left;
+	height: 50px;
+	width: 100%;
+	background-color: rgb(90,192,204);
+}
+.img1{
+	/*给返回图标定位*/
+	width:52px;
+	height: 35px;
+	margin-top: 14px;
+
+}
+.toptext{
+	/*调整文本个人主页样式，看起来更舒适*/
+	font-size: 18px;
+	color:white;
+	text-align: center;
+	float: left;
+	width: 100%;
+	margin-top: 13px;
+}
+.headPortrait{
+	float: left;
+	width: 100%;
+	height: 177px;
+	position: relative;
+}
+.img2{
+	position: absolute;
+	width: 100%;
+	height:100%;
+}
+.img3{
+	width:80px;
+	margin-top: 50px;
+	margin-left: 30px;
+	position: absolute;
+	-webkit-border-radius:84px;
+}
+.names{
+	line-height: 1.8em;
+	margin-top: 56px;
+	margin-left: 130px;
+	position: relative;
+	width: 150px;
+	color:white;
+}
+.img4{
+	margin-bottom: -1px;
+	width: 11px;
+	position: relative;
+}
+.miDdle1{
+	margin-top: 227px;
+	position: absolute;
+	height: 60px;
+	width: 100%;
+}
+.miDdle4{
+	border-bottom: 2px solid #dad2d2;
+	position: relative;
+	height: 60px;
+	width: 90%;
+	margin:0 5%;
+	line-height: 4em;
+}
+.miDdle3{
+	border-bottom: 2px solid #dad2d2;
+	position: relative;
+	height: 60px;
+	width: 100%;
+	line-height: 3.5em;
+}
+.miDdle5{
+		/*line-height: 2em;*/
+		/*min-height: 60px;*/
+		position: relative;
+		/*padding-left: 88px;*/
+		padding: 5px 0 5px 88px;
+	}
+.miDdle6{
+		line-height: 3.5em;
+		height: 100%;
+		position: absolute;
+	}
+.bottoms{
+	position: fixed;
+	width:100%;
+	height: 50px;
+	background-color: white;
+	bottom: 3px;
+}
+.bottomtext1{
+	display: inline-block;
+	width:45%;
+	margin-left: 2%;
+	margin-right: 1.5%;
+}
+.lands{
+	border: 3px solid rgb(90,192,204);
+	-webkit-border-radius:8px;
+	background-color: white;
+	color: rgb(90,192,204);
+	width: 100%;
+	padding: 14.5px 0;
+}
+.bottomtext2{
+	position: absolute;
+	display: inline-block;
+	width:45%;
+	margin-right: 3.3%;
+	margin-left: 1.5%;
+}
+.lands2{
+	border: 3px solid rgb(95,192,204);
+	-webkit-border-radius:8px;
+	color: white;
+	background-color: rgb(90,192,204);
+	width: 100%;
+	padding: 14.5px 0;
+}
